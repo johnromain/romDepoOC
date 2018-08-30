@@ -8,7 +8,21 @@
     url('fonts/blackjack-webfont.ttf') format('truetype'),
     url('fonts/blackjack-webfont.svg#blackjackregular') format('svg');
 }
+/* RESPONSIVE */
 
+@media screen and (max-width: 1024px)
+{
+    #liseret
+    {
+        display:none;
+    }
+
+    #bloc_infos
+    {
+        flex-direction: column
+    }
+
+}
 
 /* TITRES */
 
