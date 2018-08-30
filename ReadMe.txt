@@ -1,12 +1,12 @@
 PRESENTATION DU PROJET 
-Je souhaite créer un CV en ligne en appliquant les techniques aprises lors des cours sur OpenClassroom
+Je souhaite créer un CV en ligne en appliquant les techniques des cours OpenClassroom
 
 Etapes prévues 
-Création d'un fichier HTML index.html
-Création d'un fichier CSS
 
+Création des fichiers
 Création de la struture de la page dans le Fichier HTML
-
-Ajout du contenu 
-
+Création d'un fichier CSS et ajout de médias et polices
 Ajout de fonctionnalités responsives
+Test avec du contenu
+
+
